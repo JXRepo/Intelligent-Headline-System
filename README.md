@@ -1,4 +1,4 @@
-# **Intelligent Headline System**
+# **Intelligent-Headline-System**
 
 This repository contains a subset of the core files from the project of Intelligent Headline System. 
 Note that not all project files are included here.
